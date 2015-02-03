@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# vim
+*.swp
+
+#Sensitive data
+config.py
+disclaimer.txt
